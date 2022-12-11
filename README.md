@@ -14,4 +14,4 @@ Additional details reference https://github.com/alpaddesai/BenefitsOfFitnessRout
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea2022
+Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea

@@ -13,4 +13,4 @@ All images are either custom by Alpa D Desai or a reference name is included.
 
 ![image](USCopyrightCertificate.png)
 
-Advanced knowledge reference https://github.com/alpaddesai/RealEstatePortfolioIdea
+Advanced knowledge reference https://github.com/alpaddesai/LifeStyle
